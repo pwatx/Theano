@@ -7,6 +7,6 @@ pydot
 pydot2
 Cython
 parameterized
-scipy==0.13
+scipy>=0.13
 
 
